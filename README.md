@@ -12,3 +12,6 @@ Pesan: Semoga Ospek Departemen Teknik Informatika ke depannya semakin kreatif da
 
 ## Kesan Pesan Cluster [12] Sejauh Ini 
 Kakak Fasilnya sangat ramah dan peduli terhadap anggota clusternya. Teman-teman sesama cluster juga asik dan solid
+
+## Harapan Kuliah
+Semoga selama berkuliah di FILKOM UB, saya bisa menguasai keahlian di bidang teknologi informasi serta beradaptasi dengan perkembangan industri modern. Saya juga berharap dapat membangun jejaring yang luas bersama sesama mahasiswa dan para dosen. Harapan terbesar saya adalah lulus tepat waktu dengan portofolio proyek yang solid sebagai bekal karir masa depan.
